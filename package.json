@@ -7,7 +7,10 @@
   ],
   "main": "lib/index.js",
   "bin": "bin/hao-pages.js",
-  "repository": "git@github.com:WILLwings7092/hao-pages.git",
+  "engines": {
+    "node": ">=12"
+  },
+  "repository": "https://github.com/WILLwings7092/hao-pages.git",
   "author": "lihuabing <2946632291@qq.com>",
   "files": [
     "lib",
